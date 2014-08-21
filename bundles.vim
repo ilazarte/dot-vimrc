@@ -102,4 +102,12 @@ Bundle 'Lokaltog/vim-distinguished'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'fisadev/fisa-vim-colorscheme'
 
+"--------------
+" ilazarte
+"--------------
+Bundle 'godlygeek/csapprox'
+Bundle 'matthewtodd/vim-twilight'
+Bundle 'terryma/vim-expand-region'
+Bundle 'vim-scripts/Wombat'
+
 filetype plugin indent on     " required!
