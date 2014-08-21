@@ -267,3 +267,11 @@ if has("gui_running")
     map <D-9> 9gt
     map <D-0> :tablast<CR>
 endif
+
+"---------
+" ilazarte
+"---------
+" remap expand region to avoid mapping conflict
+map K <Plug>(expand_region_expand)
+map J <Plug>(expand_region_shrink)
+
